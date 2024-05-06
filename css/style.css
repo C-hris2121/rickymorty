@@ -1,0 +1,71 @@
+#rick{
+    background-image: url(Rick_Sanchez_AS.webp);
+    background-color: rgb(7, 245, 245);
+    background-position: 50% 50%;
+    background-size: 190px;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgb(36, 36, 143);
+    padding: 35px;
+    margin: 20px;
+    float: left;
+    
+}
+#morty{
+    background-image: url(Morty_Smith_AS.webp);
+    background-color: rgb(243, 243, 27);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 123px;
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgb(75, 73, 73);
+    padding: 35px;
+    margin: 20px;
+    float: left;
+
+}
+#summer{
+    background-image: url(SummerSmith.webp);
+    background-color: rgb(230, 73, 146);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    width: 300px;
+    height: 300px;
+    border: 3px solid #eed09d;
+    padding: 35px;
+    margin: 20px;
+    float: left;
+
+}
+#jerry{
+    background-image: url(Jerry_Smith_\(Rick_and_Morty\).png);
+    background-color: rgb(192, 128, 65);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgb(58, 57, 57);
+    padding: 35px;
+    margin: 20px;
+    float: left;
+
+}
+p{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+h1 {
+font-family: rickymortyfuentes;
+text-align: center;
+}
+    @font-face {
+        font-family: rickymortyfuentes;
+        src: url(/font/rickymortyfuentes.ttf)
+}
